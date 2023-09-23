@@ -1,0 +1,16 @@
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\bin\Debug\Trabalho4.exe.config
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\bin\Debug\Trabalho4.exe
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\bin\Debug\Trabalho4.pdb
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.csproj.AssemblyReference.cache
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.csproj.SuggestedBindingRedirects.cache
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.Form1.resources
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.Form2.resources
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.Properties.Resources.resources
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.csproj.GenerateResource.cache
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.csproj.CoreCompileInputs.cache
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.exe
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.pdb
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\bin\Debug\Trabalho4.exe.manifest
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\bin\Debug\Trabalho4.application
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.exe.manifest
+C:\Users\NEUSA\Desktop\Tiago\Uninter\Trabalho PV\Trabalho4\obj\Debug\Trabalho4.application
